@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @AarefinAzizSifat22
-- 👀 I’m interested in Linux, Python, Javascript, PHP etc...
-- 🌱 I’m currently learning Linux...
-- 📫 To reach me on facebook click: www.facebook.com/AREFINAZIZSIFAT...
 
-<!---
-AarefinAzizSifat22/AarefinAzizSifat22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
